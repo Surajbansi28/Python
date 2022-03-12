@@ -1,0 +1,5 @@
+a = (1,2,5,4,10,6,9)
+maximum = max(a)
+minimum = min(a)
+print("The maximum value in the tuple is:", maximum)
+print("The minimum value in the tuple is:", minimum)
